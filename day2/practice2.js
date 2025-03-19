@@ -24,3 +24,5 @@ ask(
   () => alert("you agree"),
   () => alert("you canceled")
 );
+
+/* 箭头函数相关特性 */

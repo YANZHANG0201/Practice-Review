@@ -19,6 +19,12 @@
 //   }
 // }
 //修正后
+
+
+/* a, b, c, d 4个请求，保证顺序请求的实现方式 */
+
+/* for in 和 for of的区别 */
+
 function isEmpty(obj) {
   for (let key in obj) {
     // 如果进到循环里面，说明有属性。
@@ -26,6 +32,7 @@ function isEmpty(obj) {
   }
   return true;
 }
+
 
 // let schedule = {};
 // console.log(isEmpty(schedule));

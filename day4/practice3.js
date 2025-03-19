@@ -5,6 +5,7 @@
 //   Mary: 250,
 // };
 
+/* require 和 import 的异同 */
 const { GiConsoleController } = require("react-icons/gi");
 
 // function sumSalaries(obj) {
